@@ -1,0 +1,18 @@
+{
+  "name": "kingluca168sdfsg",
+  "main": "kingluca168sdfsg",
+  "theme": "syntax",
+  "version": "1.1.2",
+  "description": "KINGLUCA เว็บชั้นนำสำหรับคนเล่นสล็อต ด้วยระบบฝากถอนออโต้ที่รวดเร็ว จ่ายจริงไม่มีอั้น ไม่มีประวัติการโกงแต่อย่างใด แถมไม่มีล็อกยูส แตกหมดทุกยูสแน่นอน",
+  "keywords": [
+    "KINGLUCA",
+    "เล่นสล็อต",
+    "เว็บเล่น",
+    "slot"
+  ],
+  "repository": "https://github.com/combo168/kingluca168sdfsg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
